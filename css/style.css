@@ -1,0 +1,21 @@
+.logo{
+    width: 200px;
+}
+header{
+    text-align: center;
+}
+nav li{
+    display: inline;
+    padding: 60px;
+    margin-right: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+nav a:hover{
+    text-decoration:wavy;
+}
+.welcome{
+    color: black;
+}

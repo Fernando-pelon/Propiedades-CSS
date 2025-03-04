@@ -19,3 +19,45 @@ nav a:hover{
 .welcome{
     color: black;
 }
+main{
+    background-color: #ffffff;
+    color: black;
+}
+.welcome{
+    padding: 20px;
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.courses{
+    padding: 30px;
+}
+p{
+    font-size: 18px;
+    line-height: 1.4;
+}
+.welcome h1, .courses h2{
+    color: #005A9C;
+}
+.infocurso img{
+    width: 225px;
+    float: left;
+    margin-right: 30px;
+}
+.infocurso{ 
+    overflow: auto;
+    margin-bottom: 30px;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: lightgray;
+}
+.image{
+    width: 600px;
+    border: 2px solid black;
+}
